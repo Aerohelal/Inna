@@ -1,2 +1,0 @@
-# Inna
- interactive sample
